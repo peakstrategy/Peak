@@ -1,0 +1,36 @@
+{
+  "announcements": [
+    {
+      "id": 7,
+      "date": "May 2026",
+      "tag": "new",
+      "title": "📸 Share Your Screenshots!",
+      "body": "We need your help! To submit Peak to the public App Store we need real gameplay screenshots from testers. Please send a few screenshots of your games — the board, a win screen, anything that looks great — to peak.strategy.official@gmail.com."
+    },
+    {
+      "id": 6,
+      "date": "May 2026",
+      "tag": "new",
+      "title": "💬 Join Our Discord",
+      "body": "Connect with other Peak players, coordinate online games, and share feedback in our community Discord. Join here: https://discord.gg/zPTtN4JCuQ"
+    },
+    {
+      "id": 5,
+      "date": "May 2026",
+      "tag": "new",
+      "title": "📧 Feedback & Suggestions",
+      "body": "Have a comment, bug report, or recommendation? We want to hear from you. Reach out directly at peak.strategy.official@gmail.com"
+    },
+    {
+      "id": 4,
+      "date": "May 2026",
+      "tag": "new",
+      "title": "Online Multiplayer — Alpha Testing",
+      "body": "Online multiplayer is live! During the alpha phase there won't be many players online at once, so if you'd like to try it out please coordinate your games around 7 PM Central Time to give yourself the best chance of finding an opponent."
+    }
+  ],
+  "maintenance": {
+    "active": false,
+    "message": ""
+  }
+}
